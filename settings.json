@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " primalwrath.aternos.me",
+    "ip": "primalwrath.aternos.me",
     "port": 27571,
     "version": "1.21.11",
     "try-creative": false
