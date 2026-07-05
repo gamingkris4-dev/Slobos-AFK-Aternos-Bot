@@ -31,12 +31,12 @@
       "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        "oh gow",
-        "gow lang",
-        "anubayun"
+        "",
+        "",
+        ""
       ]
     },
-    "chat-log": true,
+    "chat-log": false,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
